@@ -11,7 +11,7 @@ setuptools.setup(
     description="Simple OAuth2 authorization code flow for Streamlit",
     long_description=README,
     long_description_content_type="text/markdown",
-    url="https://github.com/dnplus/streamlit-oauth",
+    url="https://github.com/samiran2404/streamlit-oauth",
     packages=setuptools.find_packages(),
     include_package_data=True,
     classifiers=[],
